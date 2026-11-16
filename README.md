@@ -75,25 +75,34 @@
 ### [Hired - Distributed Career Management & Application Automation Platform](https://github.com/yasmenmad/hired)
 *Enterprise Recruitment & Career Automation Architecture with Sara 3D HR Avatar Engine (v13 DDD)*
 - **Architecture:** React 19, TypeScript, Tailwind CSS 4, Vite 8, FastAPI (Python 3.12), SQLAlchemy, TalkingHead Three.js 3D Avatar Engine, Domain-Driven Design (Application, Domain, Infrastructure, Presentation layers).
-- **Capabilities:** Interactive 3D conversational interviewer avatar with real-time lip synchronization, layered repository pattern, asynchronous interview simulation, automated CV synthesis, and prompt-chained job-candidate matching.
+- **Capabilities:** Interactive 3D conversational interviewer avatar with real-time lip synchronization, dual speech-viseme animation loop, layered repository pattern, asynchronous interview simulation, automated CV synthesis, and prompt-chained job-candidate matching.
 - **Live Deployment:** [yasmenmad.github.io/hired](https://yasmenmad.github.io/hired/)
 - **Repository:** [github.com/yasmenmad/hired](https://github.com/yasmenmad/hired)
 
 ---
 
-### [Filmo - NLP Semantic Movie Recommendation & Information Retrieval Engine](https://github.com/yasmenmad/chatbot)
-*Information Retrieval & Natural Language Processing System*
-- **Architecture:** Python 3.11, Streamlit, Sentence-Transformers (`all-MiniLM-L6-v2`), Scikit-learn, VADER, Interactive Client-Side Engine.
-- **Algorithmic Core:** Hybrid retrieval model combining 384-dimensional dense sentence embeddings with sparse TF-IDF lexical vectors and sentiment polarity calibration over 1,000 indexed IMDb titles.
+### [Echoes of History - Interactive Multi-Era Pedagogical Simulation Engine](https://github.com/yasmenmad/echoes-of-history)
+*Interactive Historical Simulation, Acoustic Phonetics & Adaptive Persona Retrieval*
+- **Architecture:** React 19, Vite 7, Web Speech API, Groq (Llama 3.3 70B), Particle Systems, State Machine.
+- **Capabilities:** 9 interactive historical figures (Napoleon Bonaparte, Cleopatra VII, Nikola Tesla, Leonardo da Vinci, Albert Einstein, Frida Kahlo, Genghis Khan, Marie Curie, William Shakespeare), in-character contextual memory, eye-tracking geometry, and dual online/offline conversational engine.
+- **Live Deployment:** [yasmenmad.github.io/echoes-of-history](https://yasmenmad.github.io/echoes-of-history/)
+- **Repository:** [github.com/yasmenmad/echoes-of-history](https://github.com/yasmenmad/echoes-of-history)
+
+---
+
+### [Filmo - AI Cinema Intelligence & Adaptive Recommendation Engine](https://github.com/yasmenmad/chatbot)
+*Information Retrieval, Sentiment Calibration & Natural Language Processing System*
+- **Architecture:** Python 3.11, Streamlit, Scikit-learn, Web Speech API, Interactive Client-Side Engine.
+- **Algorithmic Core:** Emotion-adaptive recommendation engine that proactively detects sadness and low mood to curate heartwarming, uplifting comedies and inspiring adventures, paired with IMDb dataset indexing over 1,000 titles.
 - **Live Deployment:** [yasmenmad.github.io/chatbot](https://yasmenmad.github.io/chatbot/)
 - **Repository:** [github.com/yasmenmad/chatbot](https://github.com/yasmenmad/chatbot)
 
 ---
 
 ### [Ombres Numériques - Regional Infrastructure Intelligence & Spatial GIS](https://github.com/yasmenmad/ombres-numeriques)
-*Geospatial Data Analytics & Socio-Economic Modeling*
-- **Architecture:** Node.js, Express, Leaflet.js, Chart.js, GeoJSON.
-- **Analytical Core:** Models composite Infrastructure Vulnerability Indices across Moroccan provincial territories with interactive vector layers.
+*Geospatial Data Analytics & Socio-Economic Modeling for Morocco*
+- **Architecture:** Node.js, Express, Leaflet.js, Chart.js, GeoJSON, Pro Dark GIS Interface.
+- **Analytical Core:** Models composite Infrastructure Vulnerability Indices across Moroccan provincial territories with interactive vector layers, regional radar breakdowns, and real-time telemetry.
 - **Live Deployment:** [yasmenmad.github.io/ombres-numeriques](https://yasmenmad.github.io/ombres-numeriques/) | [Cartographie SIG](https://yasmenmad.github.io/ombres-numeriques/map.html) | [Indicateurs Territoriaux](https://yasmenmad.github.io/ombres-numeriques/dashboard.html)
 - **Repository:** [github.com/yasmenmad/ombres-numeriques](https://github.com/yasmenmad/ombres-numeriques)
 
@@ -125,25 +134,17 @@
 
 ---
 
-### [Willll - Interactive State & Animation Demonstration](https://github.com/yasmenmad/willll)
-*Reactive DOM & State Exploration Application*
-- **Architecture:** Vanilla JavaScript, HTML5 Canvas, CSS Animations.
-- **Live Deployment:** [yasmenmad.github.io/willll](https://yasmenmad.github.io/willll/)
-- **Repository:** [github.com/yasmenmad/willll](https://github.com/yasmenmad/willll)
-
----
-
 ## Live Deployments Quick Index
 
 | Project Name | Domain / Application | Verified Live Demo | Repository Source |
 | :--- | :--- | :--- | :--- |
-| **Polyglot** | Adaptive Multilingual Learning PWA | [Live Demo](https://yasmenmad.github.io/polyglot-language-coach/) | [`polyglot-language-coach`](https://github.com/yasmenmad/polyglot-language-coach) |
+| **Polyglot** | Adaptive Multilingual Learning PWA (SM-2) | [Live Demo](https://yasmenmad.github.io/polyglot-language-coach/) | [`polyglot-language-coach`](https://github.com/yasmenmad/polyglot-language-coach) |
 | **Hired** | Career Management & 3D Sara Avatar (v13 DDD) | [Live Demo](https://yasmenmad.github.io/hired/) | [`hired`](https://github.com/yasmenmad/hired) |
-| **Filmo** | NLP Semantic Movie Search & Recommendation | [Live Demo](https://yasmenmad.github.io/chatbot/) | [`chatbot`](https://github.com/yasmenmad/chatbot) |
+| **Echoes of History** | Multi-Era Historical Dialogue & Pedagogical Simulation | [Live Demo](https://yasmenmad.github.io/echoes-of-history/) | [`echoes-of-history`](https://github.com/yasmenmad/echoes-of-history) |
+| **Filmo** | Emotion-Adaptive NLP Movie Recommendation | [Live Demo](https://yasmenmad.github.io/chatbot/) | [`chatbot`](https://github.com/yasmenmad/chatbot) |
 | **Ombres Numériques** | Morocco Infrastructure GIS & Analytics | [Live Demo](https://yasmenmad.github.io/ombres-numeriques/) | [`ombres-numeriques`](https://github.com/yasmenmad/ombres-numeriques) |
 | **HanyuStar** | Interactive Mandarin Learning Client | [Live Demo](https://yasmenmad.github.io/HanyuStar/) | [`HanyuStar`](https://github.com/yasmenmad/HanyuStar) |
 | **Real Stories** | Historical Cinema Discovery Portal | [Live Demo](https://yasmenmad.github.io/REAL-STORIES/) | [`REAL-STORIES`](https://github.com/yasmenmad/REAL-STORIES) |
-| **Willll** | Interactive Reactive Canvas Engine | [Live Demo](https://yasmenmad.github.io/willll/) | [`willll`](https://github.com/yasmenmad/willll) |
 
 ---
 
@@ -180,6 +181,6 @@
 
 ## Contact & Profiles
 
-- **LinkedIn:** [linkedin.com/in/yasmine-daoudi-473260340](https://www.linkedin.com/in/yasmine-daoudi-473260340)
+- **LinkedIn:** [linkedin.com/in/yasmine-daoudi-eng](https://www.linkedin.com/in/yasmine-daoudi-eng)
 - **Email:** [yasmineedaoudii@gmail.com](mailto:yasmineedaoudii@gmail.com)
 - **GitHub:** [github.com/yasmenmad](https://github.com/yasmenmad)
