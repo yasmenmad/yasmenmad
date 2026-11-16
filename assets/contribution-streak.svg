@@ -1,0 +1,41 @@
+<svg width="495" height="195" viewBox="0 0 495 195" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .header { font: 600 18px 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; fill: #7aa2f7; }
+    .stat-label { font: 500 12px 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; fill: #7982a9; text-transform: uppercase; letter-spacing: 0.5px; }
+    .stat-value { font: 700 24px 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; fill: #c0caf5; }
+    .stat-sub { font: 400 11px 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; fill: #565f89; }
+    .card-bg { fill: #1a1b26; stroke: #24283b; stroke-width: 1.5; rx: 10px; }
+    .divider { stroke: #24283b; stroke-width: 1; }
+    .metric-box { fill: #1f2335; stroke: #292e42; stroke-width: 1; rx: 8px; }
+  </style>
+
+  <rect width="495" height="195" class="card-bg" />
+
+  <text x="25" y="38" class="header">GitHub Contributions &amp; Delivery Summary</text>
+  <line x1="25" y1="52" x2="470" y2="52" class="divider" />
+
+  <!-- Metric 1: Total Commits -->
+  <g transform="translate(25, 68)">
+    <rect width="138" height="102" class="metric-box" />
+    <text x="69" y="30" text-anchor="middle" class="stat-label">Total Commits</text>
+    <text x="69" y="62" text-anchor="middle" class="stat-value" fill="#7aa2f7">500+</text>
+    <text x="69" y="84" text-anchor="middle" class="stat-sub">Verified History</text>
+  </g>
+
+  <!-- Metric 2: Current Streak & Status -->
+  <g transform="translate(178, 68)">
+    <rect width="138" height="102" class="metric-box" stroke="#f7768e" stroke-width="1.5" />
+    <circle cx="69" cy="22" r="3.5" fill="#f7768e" />
+    <text x="69" y="42" text-anchor="middle" class="stat-label" fill="#f7768e">Active Delivery</text>
+    <text x="69" y="70" text-anchor="middle" class="stat-value" fill="#bb9af7">Daily</text>
+    <text x="69" y="88" text-anchor="middle" class="stat-sub">Production Deploys</text>
+  </g>
+
+  <!-- Metric 3: Live Deployments -->
+  <g transform="translate(331, 68)">
+    <rect width="138" height="102" class="metric-box" />
+    <text x="69" y="30" text-anchor="middle" class="stat-label">Live Deployments</text>
+    <text x="69" y="62" text-anchor="middle" class="stat-value" fill="#9ece6a">7 Apps</text>
+    <text x="69" y="84" text-anchor="middle" class="stat-sub">100% Uptime</text>
+  </g>
+</svg>

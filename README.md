@@ -1,7 +1,54 @@
 # Yasmine Daoudi
 
 **Software Engineer & Applied Computer Science Researcher**  
-*Distributed Systems | Neural Information Retrieval | Adaptive Pedagogical Technology | Offline-First PWAs*
+*Distributed Systems | Neural Information Retrieval | Adaptive Pedagogical Technology | Offline-First Architectures*
+
+---
+
+## When I code, I rely on
+
+<div align="center">
+
+### Languages & Core Runtimes
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+### Frontend Frameworks & Graphics
+[![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E)](https://vitejs.dev/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_4-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/)
+[![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)](https://leafletjs.com/)
+
+### Backend, APIs & Distributed Protocols
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)](https://www.sqlalchemy.org/)
+[![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
+
+### Machine Learning, NLP & Analytics
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/)
+
+### Databases, DevOps & Tooling
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL_16-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
+
+</div>
 
 ---
 
@@ -26,9 +73,9 @@
 ---
 
 ### [Hired - Distributed Career Management & Application Automation Platform](https://github.com/yasmenmad/hired)
-*Enterprise Recruitment & Career Automation Architecture (v12 DDD Clean Architecture)*
-- **Architecture:** React 19, TypeScript, Tailwind CSS 4, Vite 6, FastAPI (Python 3.12), SQLAlchemy, SQLite/PostgreSQL, Domain-Driven Design (Application, Domain, Infrastructure, Presentation layers).
-- **Capabilities:** Layered repository pattern, asynchronous interview simulation, automated CV synthesis, and prompt-chained job-candidate matching.
+*Enterprise Recruitment & Career Automation Architecture with Sara 3D HR Avatar Engine (v13 DDD)*
+- **Architecture:** React 19, TypeScript, Tailwind CSS 4, Vite 8, FastAPI (Python 3.12), SQLAlchemy, TalkingHead Three.js 3D Avatar Engine, Domain-Driven Design (Application, Domain, Infrastructure, Presentation layers).
+- **Capabilities:** Interactive 3D conversational interviewer avatar with real-time lip synchronization, layered repository pattern, asynchronous interview simulation, automated CV synthesis, and prompt-chained job-candidate matching.
 - **Live Deployment:** [yasmenmad.github.io/hired](https://yasmenmad.github.io/hired/)
 - **Repository:** [github.com/yasmenmad/hired](https://github.com/yasmenmad/hired)
 
@@ -91,25 +138,12 @@
 | Project Name | Domain / Application | Verified Live Demo | Repository Source |
 | :--- | :--- | :--- | :--- |
 | **Polyglot** | Adaptive Multilingual Learning PWA | [Live Demo](https://yasmenmad.github.io/polyglot-language-coach/) | [`polyglot-language-coach`](https://github.com/yasmenmad/polyglot-language-coach) |
-| **Hired** | Career Management & Application Automation (v12 DDD) | [Live Demo](https://yasmenmad.github.io/hired/) | [`hired`](https://github.com/yasmenmad/hired) |
+| **Hired** | Career Management & 3D Sara Avatar (v13 DDD) | [Live Demo](https://yasmenmad.github.io/hired/) | [`hired`](https://github.com/yasmenmad/hired) |
 | **Filmo** | NLP Semantic Movie Search & Recommendation | [Live Demo](https://yasmenmad.github.io/chatbot/) | [`chatbot`](https://github.com/yasmenmad/chatbot) |
 | **Ombres Numériques** | Morocco Infrastructure GIS & Analytics | [Live Demo](https://yasmenmad.github.io/ombres-numeriques/) | [`ombres-numeriques`](https://github.com/yasmenmad/ombres-numeriques) |
 | **HanyuStar** | Interactive Mandarin Learning Client | [Live Demo](https://yasmenmad.github.io/HanyuStar/) | [`HanyuStar`](https://github.com/yasmenmad/HanyuStar) |
 | **Real Stories** | Historical Cinema Discovery Portal | [Live Demo](https://yasmenmad.github.io/REAL-STORIES/) | [`REAL-STORIES`](https://github.com/yasmenmad/REAL-STORIES) |
 | **Willll** | Interactive Reactive Canvas Engine | [Live Demo](https://yasmenmad.github.io/willll/) | [`willll`](https://github.com/yasmenmad/willll) |
-
----
-
-## Systems & Technology Matrix
-
-| Dimension | Primary Frameworks, Languages & Tools |
-| :--- | :--- |
-| **Languages** | Python, TypeScript, JavaScript (ES6+), Java, C, PHP, SQL |
-| **Frontend Frameworks** | React 19, React 18, Vite, Tailwind CSS 4, HTML5, CSS3, Progressive Web Apps (Workbox) |
-| **Backend & Distributed Systems** | FastAPI, Node.js, Express, RESTful Protocols, WebSockets, SQLAlchemy |
-| **Machine Learning & NLP** | Sentence-Transformers, Scikit-learn, PyTorch, Pandas, NumPy, VADER, NLTK |
-| **Databases & Storage** | PostgreSQL 16, SQLite, Microsoft SQL Server, MongoDB |
-| **DevOps & Infrastructure** | Git, GitHub Actions (CI/CD), Docker, Docker Compose, Linux Environments |
 
 ---
 
@@ -129,17 +163,23 @@
 
 ---
 
+## GitHub Contributions & Engineering Activity
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yasmenmad/yasmenmad/main/assets/contribution-streak.svg" alt="GitHub Contributions &amp; Continuous Delivery" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yasmenmad/yasmenmad/main/assets/github-stats.svg" alt="GitHub Engineering Statistics" width="49%" />
+  <img src="https://raw.githubusercontent.com/yasmenmad/yasmenmad/main/assets/top-languages.svg" alt="Top Languages and Stacks" width="49%" />
+</div>
+
+---
+
 ## Contact & Profiles
 
 - **LinkedIn:** [linkedin.com/in/yasmine-daoudi-473260340](https://www.linkedin.com/in/yasmine-daoudi-473260340)
 - **Email:** [yasmineedaoudii@gmail.com](mailto:yasmineedaoudii@gmail.com)
 - **GitHub:** [github.com/yasmenmad](https://github.com/yasmenmad)
-
----
-
-## GitHub Activity & Metrics
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yasmenmad/yasmenmad/main/assets/github-stats.svg" alt="GitHub Engineering Statistics" width="48%" />
-  <img src="https://raw.githubusercontent.com/yasmenmad/yasmenmad/main/assets/top-languages.svg" alt="Top Languages and Stacks" width="48%" />
-</div>
