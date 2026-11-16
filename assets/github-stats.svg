@@ -1,0 +1,39 @@
+<svg width="495" height="195" viewBox="0 0 495 195" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .header { font: 600 18px 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; fill: #7aa2f7; }
+    .stat-label { font: 400 14px 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; fill: #a9b1d6; }
+    .stat-value { font: 700 14px 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; fill: #c0caf5; }
+    .subtext { font: 400 12px 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; fill: #565f89; }
+    .card-bg { fill: #1a1b26; stroke: #24283b; stroke-width: 1.5; rx: 10px; }
+    .divider { stroke: #24283b; stroke-width: 1; }
+  </style>
+
+  <rect width="495" height="195" class="card-bg" />
+
+  <text x="25" y="38" class="header">GitHub Engineering Statistics</text>
+  <line x1="25" y1="52" x2="470" y2="52" class="divider" />
+
+  <g transform="translate(25, 75)">
+    <!-- Column 1 -->
+    <text x="0" y="10" class="stat-label">Public Repositories:</text>
+    <text x="175" y="10" class="stat-value">11</text>
+
+    <text x="0" y="40" class="stat-label">Live Deployments:</text>
+    <text x="175" y="40" class="stat-value">7 Production Web Apps</text>
+
+    <text x="0" y="70" class="stat-label">Production Commits:</text>
+    <text x="175" y="70" class="stat-value">Verified Clean</text>
+
+    <!-- Column 2 -->
+    <text x="260" y="10" class="stat-label">Continuous Integration:</text>
+    <text x="420" y="10" class="stat-value">GitHub Actions</text>
+
+    <text x="260" y="40" class="stat-label">Primary Languages:</text>
+    <text x="420" y="40" class="stat-value">TypeScript / Python</text>
+
+    <text x="260" y="70" class="stat-label">License Standard:</text>
+    <text x="420" y="70" class="stat-value">MIT Open Source</text>
+  </g>
+
+  <text x="25" y="175" class="subtext">Portfolio verified across distributed systems, applied ML &amp; responsive web architecture</text>
+</svg>

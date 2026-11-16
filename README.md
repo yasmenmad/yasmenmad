@@ -14,13 +14,12 @@
 
 ---
 
-## Featured Engineering & Research Projects
+## Production Projects & Live Deployments
 
 ### [Polyglot - Intelligent Multi-Modal Adaptive Language Learning Platform](https://github.com/yasmenmad/polyglot-language-coach)
 *Comprehensive Academic Thesis & Software Engineering Capstone Project*
 - **Architecture:** React 18, TypeScript, Vite, Tailwind CSS, FastAPI (Python 3.12), SQLAlchemy, WebSockets, Web Speech API, Workbox PWA.
 - **Algorithmic Core:** Implements the **SuperMemo-2 (SM-2)** spaced repetition algorithm for optimal memory retention, real-time phonetic feedback via the browser speech engine, and an asynchronous WebSocket state machine for live multiplayer tournaments.
-- **Offline Reliability:** Service-worker caching strategy enabling offline drill exercises and local lexical storage.
 - **Live Deployment:** [yasmenmad.github.io/polyglot-language-coach](https://yasmenmad.github.io/polyglot-language-coach/)
 - **Academic Thesis:** [`Polyglot_Academic_Report_Final_v5.docx`](https://github.com/yasmenmad/polyglot-language-coach/blob/main/Polyglot_Academic_Report_Final_v5.docx)
 
@@ -30,7 +29,51 @@
 *Enterprise Recruitment & Career Automation Architecture*
 - **Architecture:** React 18, TypeScript, Tailwind CSS, FastAPI, PostgreSQL 16, Alembic, Docker Compose.
 - **Capabilities:** Layered repository pattern, OAuth2/JWT security layer, automated CV synthesis, and prompt-chained interview simulation.
+- **Live Deployment:** [yasmenmad.github.io/hired](https://yasmenmad.github.io/hired/)
 - **Repository:** [github.com/yasmenmad/hired](https://github.com/yasmenmad/hired)
+
+---
+
+### [Ombres Numériques - Regional Infrastructure Intelligence & Spatial GIS](https://github.com/yasmenmad/ombres-numeriques)
+*Geospatial Data Analytics & Socio-Economic Modeling*
+- **Architecture:** Node.js, Express, Leaflet.js, Chart.js, GeoJSON.
+- **Analytical Core:** Models composite Infrastructure Vulnerability Indices across Moroccan provincial territories with interactive vector layers.
+- **Live Deployment:** [yasmenmad.github.io/ombres-numeriques](https://yasmenmad.github.io/ombres-numeriques/) | [Interactive Map](https://yasmenmad.github.io/ombres-numeriques/map.html) | [Analytics Dashboard](https://yasmenmad.github.io/ombres-numeriques/dashboard.html)
+- **Repository:** [github.com/yasmenmad/ombres-numeriques](https://github.com/yasmenmad/ombres-numeriques)
+
+---
+
+### [HanyuStar (汉语星) - Interactive Mandarin Learning Client](https://github.com/yasmenmad/HanyuStar)
+*Client-Side Mandarin Pedagogy & Phonetics Application*
+- **Architecture:** JavaScript (ES6+), HTML5, CSS3, Hanzi Writer, Progressive Web App (PWA).
+- **Key Modules:** Character decomposition, stroke order visualizer, pinyin phonetics drills, and localized offline storage.
+- **Live Deployment:** [yasmenmad.github.io/HanyuStar](https://yasmenmad.github.io/HanyuStar/)
+- **Repository:** [github.com/yasmenmad/HanyuStar](https://github.com/yasmenmad/HanyuStar)
+
+---
+
+### [Real Stories - Curated Historical Cinema Explorer](https://github.com/yasmenmad/REAL-STORIES)
+*Historical Cinema Archival & Discovery Client*
+- **Architecture:** Vanilla JavaScript (ES6+), HTML5, CSS3, TMDB REST API.
+- **Key Modules:** Thematic filtering of historical cinema archives, dynamic metadata rendering, and responsive multi-device design.
+- **Live Deployment:** [yasmenmad.github.io/REAL-STORIES](https://yasmenmad.github.io/REAL-STORIES/)
+- **Repository:** [github.com/yasmenmad/REAL-STORIES](https://github.com/yasmenmad/REAL-STORIES)
+
+---
+
+### [ChatBott - Conversational AI Interface Component](https://github.com/yasmenmad/chatbott)
+*Responsive Client-Side Conversational UI*
+- **Architecture:** Vanilla JavaScript, HTML5, CSS3, Google Fonts.
+- **Live Deployment:** [yasmenmad.github.io/chatbott](https://yasmenmad.github.io/chatbott/)
+- **Repository:** [github.com/yasmenmad/chatbott](https://github.com/yasmenmad/chatbott)
+
+---
+
+### [Willll - Interactive State & Animation Demonstration](https://github.com/yasmenmad/willll)
+*Reactive DOM & State Exploration Application*
+- **Architecture:** Vanilla JavaScript, HTML5 Canvas, CSS Animations.
+- **Live Deployment:** [yasmenmad.github.io/willll](https://yasmenmad.github.io/willll/)
+- **Repository:** [github.com/yasmenmad/willll](https://github.com/yasmenmad/willll)
 
 ---
 
@@ -42,14 +85,6 @@
 
 ---
 
-### [Ombres Numériques - Regional Infrastructure Intelligence & Spatial GIS](https://github.com/yasmenmad/ombres-numeriques)
-*Geospatial Data Analytics & Socio-Economic Modeling*
-- **Architecture:** Node.js, Express, Leaflet.js, Chart.js, GeoJSON.
-- **Analytical Core:** Models composite Infrastructure Vulnerability Indices across Moroccan provincial territories with interactive vector layers.
-- **Repository:** [github.com/yasmenmad/ombres-numeriques](https://github.com/yasmenmad/ombres-numeriques)
-
----
-
 ### [EnhancedBadgeApp - Port Logistics Intelligence & Access Control](https://github.com/yasmenmad/anp-projects)
 *Industrial Data Analytics Tool for the National Ports Agency (ANP, Kingdom of Morocco)*
 - **Architecture:** Python, Pandas, Tkinter/ttk, Matplotlib, Scikit-learn.
@@ -58,19 +93,17 @@
 
 ---
 
-### [Real Stories - Curated Historical Cinema Explorer](https://github.com/yasmenmad/REAL-STORIES)
-*Historical Cinema Archival & Discovery Client*
-- **Architecture:** Vanilla JavaScript (ES6+), HTML5, CSS3, TMDB REST API.
-- **Live Deployment:** [yasmenmad.github.io/REAL-STORIES](https://yasmenmad.github.io/REAL-STORIES/)
-- **Repository:** [github.com/yasmenmad/REAL-STORIES](https://github.com/yasmenmad/REAL-STORIES)
+## Live Deployments Quick Index
 
----
-
-### [Willll - Interactive State & Animation Demonstration](https://github.com/yasmenmad/willll)
-*Reactive DOM & State Exploration Application*
-- **Architecture:** Vanilla JavaScript, HTML5 Canvas, CSS Animations.
-- **Live Deployment:** [yasmenmad.github.io/willll](https://yasmenmad.github.io/willll/)
-- **Repository:** [github.com/yasmenmad/willll](https://github.com/yasmenmad/willll)
+| Project Name | Domain / Application | Verified Live Demo | Repository Source |
+| :--- | :--- | :--- | :--- |
+| **Polyglot** | Adaptive Multilingual Learning PWA | [Live Demo](https://yasmenmad.github.io/polyglot-language-coach/) | [`polyglot-language-coach`](https://github.com/yasmenmad/polyglot-language-coach) |
+| **Hired** | Career Management & Application Automation | [Live Demo](https://yasmenmad.github.io/hired/) | [`hired`](https://github.com/yasmenmad/hired) |
+| **Ombres Numériques** | Morocco Infrastructure GIS & Analytics | [Live Demo](https://yasmenmad.github.io/ombres-numeriques/) | [`ombres-numeriques`](https://github.com/yasmenmad/ombres-numeriques) |
+| **HanyuStar** | Interactive Mandarin Learning Client | [Live Demo](https://yasmenmad.github.io/HanyuStar/) | [`HanyuStar`](https://github.com/yasmenmad/HanyuStar) |
+| **Real Stories** | Historical Cinema Discovery Portal | [Live Demo](https://yasmenmad.github.io/REAL-STORIES/) | [`REAL-STORIES`](https://github.com/yasmenmad/REAL-STORIES) |
+| **ChatBott** | Conversational Interface Widget | [Live Demo](https://yasmenmad.github.io/chatbott/) | [`chatbott`](https://github.com/yasmenmad/chatbott) |
+| **Willll** | Interactive Reactive Canvas Engine | [Live Demo](https://yasmenmad.github.io/willll/) | [`willll`](https://github.com/yasmenmad/willll) |
 
 ---
 
@@ -84,13 +117,6 @@
 | **Machine Learning & NLP** | Sentence-Transformers, Scikit-learn, PyTorch, Pandas, NumPy, VADER, NLTK |
 | **Databases & Storage** | PostgreSQL 16, SQLite, Microsoft SQL Server, MongoDB |
 | **DevOps & Infrastructure** | Git, GitHub Actions (CI/CD), Docker, Docker Compose, Linux Environments |
-
----
-
-## Academic Thesis & Research Reports
-
-- **Engineering Capstone Thesis:** *Polyglot: Design and Implementation of an Intelligent Multi-Modal Adaptive Language Learning Platform* ([Report Document](https://github.com/yasmenmad/polyglot-language-coach/blob/main/Polyglot_Academic_Report_Final_v5.docx))
-- **End-of-Studies Internship Report (PFE):** *Rapport de Stage de Fin d'Études - Ingénierie Logicielle & Systèmes Distribués* ([Report Document](https://github.com/yasmenmad/polyglot-language-coach/blob/main/Polyglot_Rapport_Stage_Final.docx))
 
 ---
 
@@ -111,7 +137,9 @@
 
 ---
 
+## GitHub Activity & Metrics
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yasmenmad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmenmad&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/yasmenmad/yasmenmad/main/assets/github-stats.svg" alt="GitHub Engineering Statistics" width="48%" />
+  <img src="https://raw.githubusercontent.com/yasmenmad/yasmenmad/main/assets/top-languages.svg" alt="Top Languages and Stacks" width="48%" />
 </div>

@@ -1,0 +1,53 @@
+<svg width="495" height="195" viewBox="0 0 495 195" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .header { font: 600 18px 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; fill: #7aa2f7; }
+    .lang-name { font: 500 13px 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; fill: #c0caf5; }
+    .lang-pct { font: 400 13px 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; fill: #7aa2f7; }
+    .card-bg { fill: #1a1b26; stroke: #24283b; stroke-width: 1.5; rx: 10px; }
+    .divider { stroke: #24283b; stroke-width: 1; }
+  </style>
+
+  <rect width="495" height="195" class="card-bg" />
+
+  <text x="25" y="38" class="header">Most Used Languages &amp; Stacks</text>
+  <line x1="25" y1="52" x2="470" y2="52" class="divider" />
+
+  <!-- Multi-segment progress bar -->
+  <g transform="translate(25, 72)">
+    <rect x="0" y="0" width="445" height="10" rx="5" fill="#24283b" />
+    <!-- TypeScript: 38% = 169px -->
+    <rect x="0" y="0" width="169" height="10" rx="5" fill="#3178c6" />
+    <!-- Python: 32% = 142px -->
+    <rect x="169" y="0" width="142" height="10" fill="#3572A5" />
+    <!-- JavaScript: 20% = 89px -->
+    <rect x="311" y="0" width="89" height="10" fill="#f1e05a" />
+    <!-- HTML5 / CSS3: 10% = 45px -->
+    <rect x="400" y="0" width="45" height="10" rx="5" fill="#e34c26" />
+  </g>
+
+  <!-- Legend row 1 -->
+  <g transform="translate(25, 115)">
+    <!-- TypeScript -->
+    <circle cx="6" cy="6" r="6" fill="#3178c6" />
+    <text x="20" y="10" class="lang-name">TypeScript</text>
+    <text x="135" y="10" class="lang-pct">38.0%</text>
+
+    <!-- Python -->
+    <circle cx="230" cy="6" r="6" fill="#3572A5" />
+    <text x="244" y="10" class="lang-name">Python</text>
+    <text x="355" y="10" class="lang-pct">32.0%</text>
+  </g>
+
+  <!-- Legend row 2 -->
+  <g transform="translate(25, 150)">
+    <!-- JavaScript -->
+    <circle cx="6" cy="6" r="6" fill="#f1e05a" />
+    <text x="20" y="10" class="lang-name">JavaScript</text>
+    <text x="135" y="10" class="lang-pct">20.0%</text>
+
+    <!-- HTML5 / CSS3 -->
+    <circle cx="230" cy="6" r="6" fill="#e34c26" />
+    <text x="244" y="10" class="lang-name">HTML5 / CSS3</text>
+    <text x="355" y="10" class="lang-pct">10.0%</text>
+  </g>
+</svg>
