@@ -1,9 +1,7 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yasmenmad/yasmenmad/main/assets/avatar.jpg" alt="Yasmine Daoudi" width="160" height="160" style="border-radius: 50%; object-fit: cover; border: 3px solid #7aa2f7; box-shadow: 0 4px 20px rgba(0,0,0,0.4);" />
-  <h1>Yasmine Daoudi</h1>
-  <p><strong>Software Engineer &amp; Applied Computer Science Researcher</strong><br>
-  <em>Distributed Systems | Neural Information Retrieval | Adaptive Pedagogical Technology | Offline-First PWAs</em></p>
-</div>
+# Yasmine Daoudi
+
+**Software Engineer & Applied Computer Science Researcher**  
+*Distributed Systems | Neural Information Retrieval | Adaptive Pedagogical Technology | Offline-First PWAs*
 
 ---
 
