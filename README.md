@@ -1,7 +1,9 @@
-# Yasmine Daoudi
-
-**Software Engineer & Applied Computer Science Researcher**  
-*Distributed Systems | Neural Information Retrieval | Adaptive Pedagogical Technology | Offline-First PWAs*
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yasmenmad/yasmenmad/main/assets/avatar.jpg" alt="Yasmine Daoudi" width="160" height="160" style="border-radius: 50%; object-fit: cover; border: 3px solid #7aa2f7; box-shadow: 0 4px 20px rgba(0,0,0,0.4);" />
+  <h1>Yasmine Daoudi</h1>
+  <p><strong>Software Engineer &amp; Applied Computer Science Researcher</strong><br>
+  <em>Distributed Systems | Neural Information Retrieval | Adaptive Pedagogical Technology | Offline-First PWAs</em></p>
+</div>
 
 ---
 
@@ -26,11 +28,20 @@
 ---
 
 ### [Hired - Distributed Career Management & Application Automation Platform](https://github.com/yasmenmad/hired)
-*Enterprise Recruitment & Career Automation Architecture*
-- **Architecture:** React 18, TypeScript, Tailwind CSS, FastAPI, PostgreSQL 16, Alembic, Docker Compose.
-- **Capabilities:** Layered repository pattern, OAuth2/JWT security layer, automated CV synthesis, and prompt-chained interview simulation.
+*Enterprise Recruitment & Career Automation Architecture (v12 DDD Clean Architecture)*
+- **Architecture:** React 19, TypeScript, Tailwind CSS 4, Vite 6, FastAPI (Python 3.12), SQLAlchemy, SQLite/PostgreSQL, Domain-Driven Design (Application, Domain, Infrastructure, Presentation layers).
+- **Capabilities:** Layered repository pattern, asynchronous interview simulation, automated CV synthesis, and prompt-chained job-candidate matching.
 - **Live Deployment:** [yasmenmad.github.io/hired](https://yasmenmad.github.io/hired/)
 - **Repository:** [github.com/yasmenmad/hired](https://github.com/yasmenmad/hired)
+
+---
+
+### [Filmo - NLP Semantic Movie Recommendation & Information Retrieval Engine](https://github.com/yasmenmad/chatbot)
+*Information Retrieval & Natural Language Processing System*
+- **Architecture:** Python 3.11, Streamlit, Sentence-Transformers (`all-MiniLM-L6-v2`), Scikit-learn, VADER, Interactive Client-Side Engine.
+- **Algorithmic Core:** Hybrid retrieval model combining 384-dimensional dense sentence embeddings with sparse TF-IDF lexical vectors and sentiment polarity calibration over 1,000 indexed IMDb titles.
+- **Live Deployment:** [yasmenmad.github.io/chatbot](https://yasmenmad.github.io/chatbot/)
+- **Repository:** [github.com/yasmenmad/chatbot](https://github.com/yasmenmad/chatbot)
 
 ---
 
@@ -38,8 +49,16 @@
 *Geospatial Data Analytics & Socio-Economic Modeling*
 - **Architecture:** Node.js, Express, Leaflet.js, Chart.js, GeoJSON.
 - **Analytical Core:** Models composite Infrastructure Vulnerability Indices across Moroccan provincial territories with interactive vector layers.
-- **Live Deployment:** [yasmenmad.github.io/ombres-numeriques](https://yasmenmad.github.io/ombres-numeriques/) | [Interactive Map](https://yasmenmad.github.io/ombres-numeriques/map.html) | [Analytics Dashboard](https://yasmenmad.github.io/ombres-numeriques/dashboard.html)
+- **Live Deployment:** [yasmenmad.github.io/ombres-numeriques](https://yasmenmad.github.io/ombres-numeriques/) | [Cartographie SIG](https://yasmenmad.github.io/ombres-numeriques/map.html) | [Indicateurs Territoriaux](https://yasmenmad.github.io/ombres-numeriques/dashboard.html)
 - **Repository:** [github.com/yasmenmad/ombres-numeriques](https://github.com/yasmenmad/ombres-numeriques)
+
+---
+
+### [EnhancedBadgeApp - Port Logistics Intelligence & Access Control](https://github.com/yasmenmad/anp-projects)
+*Industrial Data Analytics Tool for the National Ports Agency (ANP, Kingdom of Morocco)*
+- **Architecture:** Python, Pandas, Tkinter/ttk, Matplotlib, Scikit-learn.
+- **Capabilities:** High-throughput batch Excel ingestion, normalized Levenshtein distance string matching, and statistical auditing.
+- **Repository:** [github.com/yasmenmad/anp-projects](https://github.com/yasmenmad/anp-projects)
 
 ---
 
@@ -61,14 +80,6 @@
 
 ---
 
-### [ChatBott - Conversational AI Interface Component](https://github.com/yasmenmad/chatbott)
-*Responsive Client-Side Conversational UI*
-- **Architecture:** Vanilla JavaScript, HTML5, CSS3, Google Fonts.
-- **Live Deployment:** [yasmenmad.github.io/chatbott](https://yasmenmad.github.io/chatbott/)
-- **Repository:** [github.com/yasmenmad/chatbott](https://github.com/yasmenmad/chatbott)
-
----
-
 ### [Willll - Interactive State & Animation Demonstration](https://github.com/yasmenmad/willll)
 *Reactive DOM & State Exploration Application*
 - **Architecture:** Vanilla JavaScript, HTML5 Canvas, CSS Animations.
@@ -77,32 +88,16 @@
 
 ---
 
-### [Filmo - NLP Semantic Movie Recommendation & Information Retrieval Engine](https://github.com/yasmenmad/chatbot)
-*Information Retrieval & Natural Language Processing System*
-- **Architecture:** Python 3.11, Streamlit, Sentence-Transformers (`all-MiniLM-L6-v2`), Scikit-learn, VADER.
-- **Algorithmic Core:** Hybrid retrieval model combining 384-dimensional dense sentence embeddings with sparse TF-IDF lexical vectors and sentiment polarity calibration.
-- **Repository:** [github.com/yasmenmad/chatbot](https://github.com/yasmenmad/chatbot)
-
----
-
-### [EnhancedBadgeApp - Port Logistics Intelligence & Access Control](https://github.com/yasmenmad/anp-projects)
-*Industrial Data Analytics Tool for the National Ports Agency (ANP, Kingdom of Morocco)*
-- **Architecture:** Python, Pandas, Tkinter/ttk, Matplotlib, Scikit-learn.
-- **Capabilities:** High-throughput batch Excel ingestion, normalized Levenshtein distance string matching, and statistical auditing.
-- **Repository:** [github.com/yasmenmad/anp-projects](https://github.com/yasmenmad/anp-projects)
-
----
-
 ## Live Deployments Quick Index
 
 | Project Name | Domain / Application | Verified Live Demo | Repository Source |
 | :--- | :--- | :--- | :--- |
 | **Polyglot** | Adaptive Multilingual Learning PWA | [Live Demo](https://yasmenmad.github.io/polyglot-language-coach/) | [`polyglot-language-coach`](https://github.com/yasmenmad/polyglot-language-coach) |
-| **Hired** | Career Management & Application Automation | [Live Demo](https://yasmenmad.github.io/hired/) | [`hired`](https://github.com/yasmenmad/hired) |
+| **Hired** | Career Management & Application Automation (v12 DDD) | [Live Demo](https://yasmenmad.github.io/hired/) | [`hired`](https://github.com/yasmenmad/hired) |
+| **Filmo** | NLP Semantic Movie Search & Recommendation | [Live Demo](https://yasmenmad.github.io/chatbot/) | [`chatbot`](https://github.com/yasmenmad/chatbot) |
 | **Ombres Numériques** | Morocco Infrastructure GIS & Analytics | [Live Demo](https://yasmenmad.github.io/ombres-numeriques/) | [`ombres-numeriques`](https://github.com/yasmenmad/ombres-numeriques) |
 | **HanyuStar** | Interactive Mandarin Learning Client | [Live Demo](https://yasmenmad.github.io/HanyuStar/) | [`HanyuStar`](https://github.com/yasmenmad/HanyuStar) |
 | **Real Stories** | Historical Cinema Discovery Portal | [Live Demo](https://yasmenmad.github.io/REAL-STORIES/) | [`REAL-STORIES`](https://github.com/yasmenmad/REAL-STORIES) |
-| **ChatBott** | Conversational Interface Widget | [Live Demo](https://yasmenmad.github.io/chatbott/) | [`chatbott`](https://github.com/yasmenmad/chatbott) |
 | **Willll** | Interactive Reactive Canvas Engine | [Live Demo](https://yasmenmad.github.io/willll/) | [`willll`](https://github.com/yasmenmad/willll) |
 
 ---
@@ -112,11 +107,18 @@
 | Dimension | Primary Frameworks, Languages & Tools |
 | :--- | :--- |
 | **Languages** | Python, TypeScript, JavaScript (ES6+), Java, C, PHP, SQL |
-| **Frontend Frameworks** | React 18, Vite, Tailwind CSS, HTML5, CSS3, Progressive Web Apps (Workbox) |
+| **Frontend Frameworks** | React 19, React 18, Vite, Tailwind CSS 4, HTML5, CSS3, Progressive Web Apps (Workbox) |
 | **Backend & Distributed Systems** | FastAPI, Node.js, Express, RESTful Protocols, WebSockets, SQLAlchemy |
 | **Machine Learning & NLP** | Sentence-Transformers, Scikit-learn, PyTorch, Pandas, NumPy, VADER, NLTK |
 | **Databases & Storage** | PostgreSQL 16, SQLite, Microsoft SQL Server, MongoDB |
 | **DevOps & Infrastructure** | Git, GitHub Actions (CI/CD), Docker, Docker Compose, Linux Environments |
+
+---
+
+## Academic Thesis & Research Reports
+
+- **Engineering Capstone Thesis:** *Polyglot: Design and Implementation of an Intelligent Multi-Modal Adaptive Language Learning Platform* ([Report Document](https://github.com/yasmenmad/polyglot-language-coach/blob/main/Polyglot_Academic_Report_Final_v5.docx))
+- **End-of-Studies Internship Report (PFE):** *Rapport de Stage de Fin d'Études - Ingénierie Logicielle & Systèmes Distribués* ([Report Document](https://github.com/yasmenmad/polyglot-language-coach/blob/main/Polyglot_Rapport_Stage_Final.docx))
 
 ---
 
