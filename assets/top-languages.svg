@@ -1,48 +1,57 @@
 <svg width="495" height="195" viewBox="0 0 495 195" fill="none" xmlns="http://www.w3.org/2000/svg">
   <style>
-    .header { font: 600 18px 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; fill: #7aa2f7; }
-    .lang-name { font: 500 13px 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; fill: #c0caf5; }
-    .lang-pct { font: 400 13px 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; fill: #7aa2f7; }
-    .card-bg { fill: #1a1b26; stroke: #24283b; stroke-width: 1.5; rx: 10px; }
-    .divider { stroke: #24283b; stroke-width: 1; }
+    .header { font: 600 16px 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; fill: #fe7277; }
+    .lang-name { font: 500 12px 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; fill: #c9d1d9; }
+    .lang-pct { font: 400 12px 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; fill: #8b949e; }
+    .card-bg { fill: #0d1117; stroke: #30363d; stroke-width: 1; rx: 8px; }
   </style>
 
   <rect width="495" height="195" class="card-bg" />
 
-  <text x="25" y="38" class="header">Most Used Programming Languages</text>
-  <line x1="25" y1="52" x2="470" y2="52" class="divider" />
+  <text x="25" y="32" class="header">Top Languages</text>
 
-  <!-- Multi-segment progress bar (Total width: 445px) -->
-  <g transform="translate(25, 72)">
-    <rect x="0" y="0" width="445" height="12" rx="6" fill="#24283b" />
-    <!-- TypeScript: 45% = 200px -->
-    <rect x="0" y="0" width="200" height="12" rx="6" fill="#3178c6" />
-    <!-- Python: 35% = 156px -->
-    <rect x="200" y="0" width="156" height="12" fill="#3572A5" />
-    <!-- JavaScript: 20% = 89px -->
-    <rect x="356" y="0" width="89" height="12" rx="6" fill="#f1e05a" />
+  <!-- Progress Bar (Total 445px) -->
+  <g transform="translate(25, 52)">
+    <rect x="0" y="0" width="445" height="10" rx="5" fill="#21262d" />
+    <!-- TypeScript: 42% = 187px -->
+    <rect x="0" y="0" width="187" height="10" rx="5" fill="#3178c6" />
+    <!-- Python: 36% = 160px -->
+    <rect x="187" y="0" width="160" height="10" fill="#3572A5" />
+    <!-- JavaScript: 14% = 62px -->
+    <rect x="347" y="0" width="62" height="10" fill="#f1e05a" />
+    <!-- HTML/CSS: 8% = 36px -->
+    <rect x="409" y="0" width="36" height="10" rx="5" fill="#e34c26" />
   </g>
 
-  <!-- Legend row 1 -->
-  <g transform="translate(25, 115)">
+  <!-- Legend Grid -->
+  <g transform="translate(25, 88)">
     <!-- TypeScript -->
-    <circle cx="6" cy="6" r="6" fill="#3178c6" />
-    <text x="20" y="10" class="lang-name">TypeScript</text>
-    <text x="140" y="10" class="lang-pct">45.0%</text>
+    <circle cx="6" cy="6" r="5" fill="#3178c6" />
+    <text x="18" y="10" class="lang-name">TypeScript</text>
+    <text x="95" y="10" class="lang-pct">42.0%</text>
 
     <!-- Python -->
-    <circle cx="240" cy="6" r="6" fill="#3572A5" />
-    <text x="254" y="10" class="lang-name">Python</text>
-    <text x="375" y="10" class="lang-pct">35.0%</text>
+    <circle cx="230" cy="6" r="5" fill="#3572A5" />
+    <text x="242" y="10" class="lang-name">Python</text>
+    <text x="300" y="10" class="lang-pct">36.0%</text>
   </g>
 
-  <!-- Legend row 2 -->
-  <g transform="translate(25, 150)">
+  <g transform="translate(25, 122)">
     <!-- JavaScript -->
-    <circle cx="6" cy="6" r="6" fill="#f1e05a" />
-    <text x="20" y="10" class="lang-name">JavaScript (ES6+)</text>
-    <text x="140" y="10" class="lang-pct">20.0%</text>
+    <circle cx="6" cy="6" r="5" fill="#f1e05a" />
+    <text x="18" y="10" class="lang-name">JavaScript</text>
+    <text x="95" y="10" class="lang-pct">14.0%</text>
 
-    <text x="240" y="10" class="lang-name" fill="#565f89">Architecture: Modular Source Files</text>
+    <!-- HTML/CSS -->
+    <circle cx="230" cy="6" r="5" fill="#e34c26" />
+    <text x="242" y="10" class="lang-name">HTML/CSS</text>
+    <text x="315" y="10" class="lang-pct">8.0%</text>
+  </g>
+
+  <g transform="translate(25, 156)">
+    <!-- Frameworks & Ecosystem -->
+    <circle cx="6" cy="6" r="5" fill="#58a6ff" />
+    <text x="18" y="10" class="lang-name">Frameworks</text>
+    <text x="95" y="10" class="lang-pct">React 19 · FastAPI · Three.js · Leaflet</text>
   </g>
 </svg>
