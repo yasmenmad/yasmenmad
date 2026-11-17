@@ -1,13 +1,4 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yasmenmad/yasmenmad/main/assets/header-banner.svg" alt="Yasmine Daoudi - CS & AI Banner" width="100%" />
-</div>
 
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yasmenmad/yasmenmad/main/assets/profile.jpg" alt="Yasmine Daoudi" width="165" height="165" style="border-radius: 50%; border: 3px solid #38bdf8; box-shadow: 0 0 28px rgba(56, 189, 248, 0.45); object-fit: cover;" />
-
-  <br/><br/>
 
   # Yasmine Daoudi
 
