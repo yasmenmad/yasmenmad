@@ -1,10 +1,16 @@
-# Hi there, I'm Yasmine Daoudi
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yasmenmad/yasmenmad/main/assets/profile.jpg" width="165" height="165" style="border-radius:50%; border:3px solid #7aa2f7; box-shadow:0 0 35px rgba(122,162,247,0.35); object-fit:cover;" alt="Yasmine Daoudi" />
+  <br/><br/>
 
-[![Profile views](https://komarev.com/ghpvc/?username=yasmenmad&color=3178c6&style=flat-square&label=PROFILE+VIEWS)](https://github.com/yasmenmad)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yasmine_Daoudi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasmine-daoudi-eng)
-[![Email](https://img.shields.io/badge/Email-yasmineedaoudii%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yasmineedaoudii@gmail.com)
+  # Hi there, I'm Yasmine Daoudi
 
-I'm a **Software Engineer & Applied Computer Science Researcher** passionate about engineering scalable web applications, applied machine learning systems, offline-first architectures, and interactive simulation engines.
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yasmine_Daoudi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasmine-daoudi-eng)
+  [![Email](https://img.shields.io/badge/Email-yasmineedaoudii%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yasmineedaoudii@gmail.com)
+
+  **Software Engineer & Applied Computer Science Researcher**  
+  *Distributed Systems &middot; Neural Information Retrieval &middot; Offline-First Architectures &middot; Geospatial GIS*
+
+</div>
 
 ---
 
@@ -45,7 +51,7 @@ I'm a **Software Engineer & Applied Computer Science Researcher** passionate abo
   [Verified Live Deployment](https://yasmenmad.github.io/polyglot-language-coach/) &middot; [Engineering Report](https://github.com/yasmenmad/polyglot-language-coach/blob/main/Polyglot_Academic_Report_Final_v5.docx) &middot; [GitHub Source](https://github.com/yasmenmad/polyglot-language-coach)
 
 - **[Hired - Distributed Career Management & 3D HR Avatar Platform](https://github.com/yasmenmad/hired)**  
-  *Sara 3D Interactive Avatar Engine, TalkingHead Three.js, Domain-Driven Design (DDD v13), Automated Interview Simulator*  
+  *Sara 3D Interactive Avatar Engine, TalkingHead Three.js, Live Biometric Emotion HUD, Domain-Driven Design (DDD v13)*  
   [Verified Live Deployment](https://yasmenmad.github.io/hired/) &middot; [GitHub Source](https://github.com/yasmenmad/hired)
 
 - **[Echoes of History - Interactive Multi-Era Pedagogical Simulation Engine](https://github.com/yasmenmad/echoes-of-history)**  
@@ -53,11 +59,11 @@ I'm a **Software Engineer & Applied Computer Science Researcher** passionate abo
   [Verified Live Deployment](https://yasmenmad.github.io/echoes-of-history/) &middot; [GitHub Source](https://github.com/yasmenmad/echoes-of-history)
 
 - **[Filmo - AI Cinema Intelligence & Emotion-Adaptive Recommendation Engine](https://github.com/yasmenmad/chatbot)**  
-  *Neural Information Retrieval, Emotion-Calibrated NLP, Proactive Sentiment Detection, Scikit-learn TF-IDF Indexing*  
+  *Neural Information Retrieval, Dense Bi-Encoder Embeddings (all-MiniLM-L6-v2), VADER Sentiment Inversion Filter*  
   [Verified Live Deployment](https://yasmenmad.github.io/chatbot/) &middot; [GitHub Source](https://github.com/yasmenmad/chatbot)
 
 - **[Ombres Numériques - Regional Infrastructure Intelligence & Spatial GIS](https://github.com/yasmenmad/ombres-numeriques)**  
-  *Geospatial Data Observatory, Moroccan Infrastructure Vulnerability Index, High-Tech Command Cartography & Telemetry*  
+  *Geospatial Data Observatory, Moroccan Infrastructure Vulnerability Index, Gemini AI Territorial Diagnostic Engine*  
   [Verified Live Deployment](https://yasmenmad.github.io/ombres-numeriques/) &middot; [Cartographie SIG](https://yasmenmad.github.io/ombres-numeriques/map.html) &middot; [Dashboard Analytique](https://yasmenmad.github.io/ombres-numeriques/dashboard.html) &middot; [GitHub Source](https://github.com/yasmenmad/ombres-numeriques)
 
 - **[EnhancedBadgeApp - Port Logistics Intelligence & Access Control](https://github.com/yasmenmad/anp-projects)**  
