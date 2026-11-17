@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yasmenmad/yasmenmad/main/assets/profile.jpg" width="165" height="165" style="border-radius:50%; border:3px solid #7aa2f7; box-shadow:0 0 35px rgba(122,162,247,0.35); object-fit:cover;" alt="Yasmine Daoudi" />
-  <br/><br/>
+
 
   # Hi there, I'm Yasmine Daoudi
 
