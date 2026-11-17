@@ -1,4 +1,13 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yasmenmad/yasmenmad/main/assets/header-banner.svg" alt="Yasmine Daoudi - CS & AI Banner" width="100%" />
+</div>
 
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yasmenmad/yasmenmad/main/assets/profile.jpg" alt="Yasmine Daoudi" width="165" height="165" style="border-radius: 50%; border: 3px solid #38bdf8; box-shadow: 0 0 28px rgba(56, 189, 248, 0.45); object-fit: cover;" />
+
+  <br/><br/>
 
   # Yasmine Daoudi
 
@@ -17,12 +26,12 @@
 
 ## Research & Academic Profile
 
-Computer Engineering and Data Science graduate (**DUT, Mention Bien, Year-2 Average 15.77/20, Top 10% of 100+ students, GPA ~ 3.5/4.0**), currently completing a Bachelor of Technology in Computer Engineering & Digital Governance at EST Kénitra. I architect end-to-end Artificial Intelligence and Big Data streaming systems &mdash; ranging from distributed **Apache Kafka / Apache Spark / Databricks** Lambda-architecture pipelines to Large Language Model-driven pedagogical and career automation platforms. Author of **4 single-author scientific preprints** indexed on Zenodo.
+Computer Engineering and Data Science graduate (**DUT, Mention Bien, Year-2 Average 15.77/20, Top 10% of 100+ students, GPA ~ 3.5/4.0**), currently completing a Bachelor of Technology in Computer Engineering &amp; Digital Governance at EST Kénitra. I architect end-to-end Artificial Intelligence and Big Data streaming systems &mdash; ranging from distributed **Apache Kafka / Apache Spark / Databricks** Lambda-architecture pipelines to Large Language Model-driven pedagogical and career automation platforms. Author of **4 single-author scientific preprints** indexed on Zenodo.
 
 ### Core Research Areas
-- **Deep Learning & Natural Language Processing:** Large Language Model applications, conversational agent architectures, neural semantic bi-encoders, CNNs, and acoustic phonetic analysis.
-- **Big Data Engineering & Distributed Mining:** Real-time stream processing, Lambda architectures, multi-terabyte data warehousing, and unsupervised spatial clustering (K-Means, DBSCAN).
-- **AI for Social Impact & Geospatial Intelligence:** Mapping digital exclusion across 450,000 Moroccan 1 km² grid cells, and architecting offline-first educational systems.
+- **Deep Learning &amp; Natural Language Processing:** Large Language Model applications, conversational agent architectures, neural semantic bi-encoders, CNNs, and acoustic phonetic analysis.
+- **Big Data Engineering &amp; Distributed Mining:** Real-time stream processing, Lambda architectures, multi-terabyte data warehousing, and unsupervised spatial clustering (K-Means, DBSCAN).
+- **AI for Social Impact &amp; Geospatial Intelligence:** Mapping digital exclusion across 450,000 Moroccan 1 km² grid cells, and architecting offline-first educational systems.
 
 ---
 

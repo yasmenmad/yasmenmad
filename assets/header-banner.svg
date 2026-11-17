@@ -1,0 +1,55 @@
+<svg width="900" height="220" viewBox="0 0 900 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cyberBg" x1="0" y1="0" x2="900" y2="220" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#090d16"/>
+      <stop offset="50%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#070a12"/>
+    </linearGradient>
+    <linearGradient id="accentLine" x1="0" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#6366f1"/>
+      <stop offset="35%" stop-color="#38bdf8"/>
+      <stop offset="70%" stop-color="#10b981"/>
+      <stop offset="100%" stop-color="#a855f7"/>
+    </linearGradient>
+    <pattern id="headerGrid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="rgba(255,255,255,0.03)" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="220" rx="14" fill="url(#cyberBg)" stroke="#1e293b" stroke-width="1.5"/>
+  <rect width="900" height="220" rx="14" fill="url(#headerGrid)"/>
+
+  <!-- Top Accent Bar -->
+  <rect x="0" y="0" width="900" height="3.5" rx="2" fill="url(#accentLine)"/>
+
+  <!-- Left Content -->
+  <g transform="translate(45, 42)">
+    <!-- Terminal-like prompt tag -->
+    <rect x="0" y="0" width="190" height="22" rx="4" fill="rgba(99,102,241,0.12)" stroke="#6366f1" stroke-width="1"/>
+    <text x="10" y="15" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="700" fill="#818cf8" letter-spacing="1">AI &amp; BIG DATA RESEARCHER</text>
+
+    <!-- Main Title -->
+    <text x="0" y="60" font-family="'Space Grotesk', -apple-system, sans-serif" font-size="34" font-weight="800" fill="#ffffff" letter-spacing="0.5">Yasmine Daoudi</text>
+    
+    <!-- Subtitle -->
+    <text x="0" y="86" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="14.5" font-weight="600" fill="#94a3b8">Prospective Master's Student &middot; Computer Science &amp; Artificial Intelligence (2027)</text>
+    <text x="0" y="106" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" font-weight="500" fill="#64748b">École Supérieure de Technologie de Kénitra &middot; Ibn Tofail University, Morocco</text>
+    <text x="0" y="125" font-family="'JetBrains Mono', monospace" font-size="11.5" font-weight="600" fill="#38bdf8">CSC Scholarship Applicant &middot; HSK 2 Mandarin &middot; Top 10% Class Rank (Average 15.77/20)</text>
+  </g>
+
+  <!-- Right Visual / Research Pillars -->
+  <g transform="translate(620, 36)">
+    <rect width="235" height="148" rx="10" fill="#0d1322" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
+    
+    <text x="16" y="24" font-family="'JetBrains Mono', monospace" font-size="9.5" font-weight="700" fill="#10b981" letter-spacing="1">SCIENTIFIC PREPRINTS</text>
+    <text x="16" y="44" font-family="-apple-system, sans-serif" font-size="12" font-weight="700" fill="#ffffff">4 Preprints on Zenodo</text>
+
+    <line x1="16" y1="56" x2="219" y2="56" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+
+    <text x="16" y="74" font-family="'JetBrains Mono', monospace" font-size="9" fill="#94a3b8">&bull; Silence as Data (Kafka &middot; Spark)</text>
+    <text x="16" y="92" font-family="'JetBrains Mono', monospace" font-size="9" fill="#94a3b8">&bull; Hired (DDD &middot; 3D Avatar &middot; LLaMA)</text>
+    <text x="16" y="110" font-family="'JetBrains Mono', monospace" font-size="9" fill="#94a3b8">&bull; Polyglot (SM-2 Algorithm &middot; PWA)</text>
+    <text x="16" y="128" font-family="'JetBrains Mono', monospace" font-size="9" fill="#94a3b8">&bull; BI Pipeline (Talend &middot; Power BI)</text>
+  </g>
+</svg>
