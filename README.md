@@ -99,7 +99,6 @@ Click any certificate to inspect the authenticated credential:
 - [![Presenting Data](https://img.shields.io/badge/Presenting_Data-HP_LIFE-0096D6?style=flat-square&logo=hp&logoColor=white)](./certificates/cert_hp_life_presenting_data.png) &middot; [**Presenting Data &middot; HP LIFE Global**](./certificates/cert_hp_life_presenting_data.png)
 - [![OOP with PHP](https://img.shields.io/badge/OOP_with_PHP-Coursera-21759B?style=flat-square&logo=coursera&logoColor=white)](./certificates/cert_oop_php_coursera.png) &middot; [**Learn Object-Oriented Programming with PHP &middot; Coursera**](./certificates/cert_oop_php_coursera.png)
 - [![Hackathon Achievement](https://img.shields.io/badge/Hackathon-Achievement_Award-7C3AED?style=flat-square&logo=trophy&logoColor=white)](./certificates/cert_hackathon_achievement.png) &middot; [**Hackathon Innovation &amp; Development Award**](./certificates/cert_hackathon_achievement.png)
-- [![Technical Internship](https://img.shields.io/badge/Technical_Internship-Certified-2563EB?style=flat-square&logo=checkmarx&logoColor=white)](./certificates/cert_technical_internship.png) &middot; [**Technical Engineering Internship Certificate**](./certificates/cert_technical_internship.png)
 - [![Application Security Seminar](https://img.shields.io/badge/Application_Security-Seminar_Certificate-059669?style=flat-square&logo=securityscorecard&logoColor=white)](./certificates/certificate_seminar.png) &middot; [**Application Security Seminar Achievement Certificate**](./certificates/certificate_seminar.png)
 
 ---
