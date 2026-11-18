@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yasmenmad/yasmenmad/main/assets/header-banner.svg" alt="Yasmine Daoudi - CS & AI Banner" width="100%" />
-</div>
+
 
 <br/>
 
