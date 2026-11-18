@@ -26,8 +26,8 @@
   <!-- Left Content -->
   <g transform="translate(45, 42)">
     <!-- Terminal-like prompt tag -->
-    <rect x="0" y="0" width="190" height="22" rx="4" fill="rgba(99,102,241,0.12)" stroke="#6366f1" stroke-width="1"/>
-    <text x="10" y="15" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="700" fill="#818cf8" letter-spacing="1">AI &amp; BIG DATA RESEARCHER</text>
+    <rect x="0" y="0" width="220" height="22" rx="4" fill="rgba(99,102,241,0.12)" stroke="#6366f1" stroke-width="1"/>
+    <text x="10" y="15" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="700" fill="#818cf8" letter-spacing="1">AI &amp; BIG DATA SYSTEMS ARCHITECT</text>
 
     <!-- Main Title -->
     <text x="0" y="60" font-family="'Space Grotesk', -apple-system, sans-serif" font-size="34" font-weight="800" fill="#ffffff" letter-spacing="0.5">Yasmine Daoudi</text>
@@ -35,7 +35,7 @@
     <!-- Subtitle -->
     <text x="0" y="86" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="14.5" font-weight="600" fill="#94a3b8">Prospective Master's Student &middot; Computer Science &amp; Artificial Intelligence (2027)</text>
     <text x="0" y="106" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" font-weight="500" fill="#64748b">École Supérieure de Technologie de Kénitra &middot; Ibn Tofail University, Morocco</text>
-    <text x="0" y="125" font-family="'JetBrains Mono', monospace" font-size="11.5" font-weight="600" fill="#38bdf8">CSC Scholarship Applicant &middot; HSK 2 Mandarin &middot; Top 10% Class Rank (Average 15.77/20)</text>
+    <text x="0" y="125" font-family="'JetBrains Mono', monospace" font-size="11.5" font-weight="600" fill="#38bdf8">DUT Mention Bien &middot; Top 10% Class Rank (Average 15.77/20, GPA ~ 3.5/4.0)</text>
   </g>
 
   <!-- Right Visual / Research Pillars -->

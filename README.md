@@ -1,10 +1,18 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yasmenmad/yasmenmad/main/assets/header-banner.svg" alt="Yasmine Daoudi - CS & AI Banner" width="100%" />
+</div>
 
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yasmenmad/yasmenmad/main/assets/profile.png" alt="Yasmine Daoudi" width="165" height="165" style="border-radius: 50%; border: 3px solid #38bdf8; box-shadow: 0 0 28px rgba(56, 189, 248, 0.45); object-fit: cover;" />
+
+  <br/><br/>
 
   # Yasmine Daoudi
 
   **Prospective Master's Student &middot; Computer Science &amp; Artificial Intelligence (Intake Sept 2027)**  
-  *École Supérieure de Technologie de Kénitra &middot; Ibn Tofail University, Morocco*  
-  *Applicant: Chinese Government Scholarship (CSC) &middot; HSK 2 Mandarin*
+  *École Supérieure de Technologie de Kénitra &middot; Ibn Tofail University, Morocco*
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yasmine_Daoudi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasmine-daoudi-eng)
   [![Email](https://img.shields.io/badge/Email-yasmineedaoudii%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yasmineedaoudii@gmail.com)
@@ -17,7 +25,7 @@
 
 ## Research & Academic Profile
 
-Computer Engineering and Data Science graduate (**DUT, Mention Bien, Year-2 Average 15.77/20, Top 10% of 100+ students, GPA ~ 3.5/4.0**), currently completing a Bachelor of Technology in Computer Engineering &amp; Digital Governance at EST Kénitra. I architect end-to-end Artificial Intelligence and Big Data streaming systems &mdash; ranging from distributed **Apache Kafka / Apache Spark / Databricks** Lambda-architecture pipelines to Large Language Model-driven pedagogical and career automation platforms. Author of **4 single-author scientific preprints** indexed on Zenodo.
+Computer Engineering and Data Science graduate (**DUT, Mention Bien, Year-2 Average 15.77/20, Top 10% of 100+ students, GPA ~ 3.5/4.0**), currently completing a Bachelor of Technology in Computer Engineering &amp; Digital Governance at EST Kénitra (Ibn Tofail University). I architect end-to-end Artificial Intelligence and Big Data streaming systems &mdash; ranging from distributed **Apache Kafka / Apache Spark / Databricks** Lambda-architecture pipelines to Large Language Model-driven pedagogical and career automation platforms. Author of **4 single-author scientific preprints** indexed on Zenodo.
 
 ### Core Research Areas
 - **Deep Learning &amp; Natural Language Processing:** Large Language Model applications, conversational agent architectures, neural semantic bi-encoders, CNNs, and acoustic phonetic analysis.
@@ -108,7 +116,7 @@ Computer Engineering and Data Science graduate (**DUT, Mention Bien, Year-2 Aver
 
 - **[Real Stories - Curated Historical Cinema Explorer](https://github.com/yasmenmad/REAL-STORIES)**  
   *Historical Cinema Archival & Discovery Portal: TMDB REST API, Thematic Filtering, Chronological Eras*  
-  Curated historical cinema discovery client indexing true-story masterpieces across world history.  
+  Curated historical cinema discovery client indexing 85 true-story masterpieces across world history with full historical dossiers.  
   [Verified Live Deployment](https://yasmenmad.github.io/REAL-STORIES/) &middot; [GitHub Source](https://github.com/yasmenmad/REAL-STORIES)
 
 - **[EnhancedBadgeApp - Port Logistics Intelligence & Access Control](https://github.com/yasmenmad/anp-projects)**  
@@ -135,16 +143,34 @@ Computer Engineering and Data Science graduate (**DUT, Mention Bien, Year-2 Aver
 
 ---
 
-### Academic Credentials & Certifications
+### Verified Certifications & Academic Credentials
+
+All credentials and certifications below are official and documented in my verified curriculum vitae:
+
+#### Artificial Intelligence, Machine Learning & Cloud Architecture
+- [![Machine Learning for All](https://img.shields.io/badge/Machine_Learning_for_All-Univ._of_London-003366?style=flat-square&logo=coursera&logoColor=white)](https://www.coursera.org/learn/uol-machine-learning-for-all) &middot; **[University of London &middot; Coursera](https://www.coursera.org/learn/uol-machine-learning-for-all)**
+- [![Introduction to Large Language Models](https://img.shields.io/badge/Introduction_to_LLMs-Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/course_templates/539) &middot; **[Google Cloud Skills Boost](https://www.cloudskillsboost.google/course_templates/539)**
+- [![Introduction to Generative AI Studio](https://img.shields.io/badge/Generative_AI_Studio-Google_Cloud-34A853?style=flat-square&logo=google&logoColor=white)](https://www.cloudskillsboost.google/course_templates/556) &middot; **[Google Cloud](https://www.cloudskillsboost.google/course_templates/556)**
+- [![Data Warehousing](https://img.shields.io/badge/Data_Warehousing-Schema%2C_ETL_%26_Performance-0062FF?style=flat-square&logo=ibm&logoColor=white)](https://www.coursera.org/learn/data-warehouse) &middot; **[Data Warehousing: Schema, ETL, and Optimal Performance](https://www.coursera.org/learn/data-warehouse)**
+- [![Data Science & Analytics](https://img.shields.io/badge/Data_Science_%26_Analytics-HP_LIFE-0096D6?style=flat-square&logo=hp&logoColor=white)](https://www.life-global.org/courses/data-science-and-analytics) &middot; **[HP LIFE Global](https://www.life-global.org/courses/data-science-and-analytics)**
+- [![Power BI for Beginners](https://img.shields.io/badge/Power_BI_for_Beginners-Microsoft-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://learn.microsoft.com/en-us/training/powerplatform/power-bi) &middot; **[Microsoft Learn](https://learn.microsoft.com/en-us/training/powerplatform/power-bi)**
+
+#### Professional Leadership, Agile & Project Engineering (HP LIFE & Coursera)
+- [![Effective Leadership](https://img.shields.io/badge/Effective_Leadership-HP_LIFE-0096D6?style=flat-square&logo=hp&logoColor=white)](https://www.life-global.org/) &middot; **[HP LIFE Global](https://www.life-global.org/)**
+- [![Agile Project Management](https://img.shields.io/badge/Agile_Project_Management-HP_LIFE-0096D6?style=flat-square&logo=hp&logoColor=white)](https://www.life-global.org/) &middot; **[HP LIFE Global](https://www.life-global.org/)**
+- [![Effective Presentations](https://img.shields.io/badge/Effective_Presentations-HP_LIFE-0096D6?style=flat-square&logo=hp&logoColor=white)](https://www.life-global.org/) &middot; **[HP LIFE Global](https://www.life-global.org/)**
+- [![Success Mindset](https://img.shields.io/badge/Success_Mindset-HP_LIFE-0096D6?style=flat-square&logo=hp&logoColor=white)](https://www.life-global.org/) &middot; **[HP LIFE Global](https://www.life-global.org/)**
+- [![Unique Value Proposition](https://img.shields.io/badge/Unique_Value_Proposition-HP_LIFE-0096D6?style=flat-square&logo=hp&logoColor=white)](https://www.life-global.org/) &middot; **[HP LIFE Global](https://www.life-global.org/)**
+- [![WordPress Development](https://img.shields.io/badge/WordPress_Creation-Coursera-21759B?style=flat-square&logo=wordpress&logoColor=white)](https://www.coursera.org/) &middot; **[Coursera](https://www.coursera.org/)**
+
+---
+
+### Academic Background
 
 - **Bachelor of Technology (Expected 2027)** &middot; Computer Engineering &amp; Digital Governance &middot; EST Kénitra
 - **University Diploma of Technology (DUT) 2024–2026** &middot; Computer Engineering &amp; Data Science &middot; EST Kénitra &middot; *Mention Bien (Year-2 Avg: 15.77/20, Top 10% of 100+ students, GPA ~ 3.5/4.0)*
-- **Machine Learning for All** &middot; University of London
-- **Introduction to Large Language Models (LLMs)** &middot; Google Cloud
-- **Introduction to Generative AI Studio** &middot; Google Cloud
-- **Data Warehousing: Schema, ETL, and Optimal Performance**
-- **Data Science &amp; Analytics** &middot; HP LIFE
-- **Power BI for Beginners** &middot; Microsoft
+  - *Selected Marks:* Project Management: 19/20 &middot; Big Data &amp; Data Mining: 18/20 &middot; Data Analysis &amp; Visualization: 18/20 &middot; Technical Internship: 17.2/20 &middot; Final-Year Project: 17/20 &middot; AI: 16.25/20 &middot; Machine Learning: 15.5/20
+- **Baccalaureate &middot; Physical Sciences (French Option) 2023** &middot; Zineb Nafzaouia, Sidi Slimane &middot; *Mention Bien, National English Exam: 18.5/20*
 - **Languages:** Arabic (Native), French (C1/C2 - Bilingual), English (C1 - Advanced), Mandarin Chinese (HSK 2)
 
 ---
