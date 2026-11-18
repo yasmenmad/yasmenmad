@@ -70,51 +70,6 @@ I am a Software and AI Engineer passionate about architecting scalable distribut
 
 </div>
 
----
-
-## Production Systems &amp; Verified Live Deployments
-
-- **[Digital Shadows (Ombres Num&eacute;riques) - Lambda-Architecture Spatial GIS](https://github.com/yasmenmad/ombres-numeriques)**  
-  *Big Data &amp; Spatial Machine Learning: Apache Spark, Kafka, Databricks, K-Means/DBSCAN, Gemini AI Policy Engine*  
-  Processes and scores **450,000 spatial cells (1 km&sup2; grid)** across Morocco to detect digitally invisible rural populations lacking health, educational, and water infrastructure. Features interactive vector choropleths and automated Gemini AI territorial policy recommendations.  
-  [Verified Live Deployment](https://yasmenmad.github.io/ombres-numeriques/) &middot; [Cartographie SIG](https://yasmenmad.github.io/ombres-numeriques/map.html) &middot; [Dashboard Analytique](https://yasmenmad.github.io/ombres-numeriques/dashboard.html) &middot; [Scientific Preprint](https://doi.org/10.5281/zenodo.23963589) &middot; [GitHub Source](https://github.com/yasmenmad/ombres-numeriques)
-
-- **[Hired - Distributed Career Management &amp; 3D Conversational HR Avatar](https://github.com/yasmenmad/hired)**  
-  *Enterprise Recruitment Platform: React 19, TypeScript, FastAPI, TalkingHead Three.js, Groq LLaMA 3.3, DDD v13*  
-  Features Sara, an interactive 3D conversational interviewer avatar with real-time lip-synchronization, live candidate biometric emotion HUD, automated ATS CV scoring, and prompt-chained job-candidate matching.  
-  [Verified Live Deployment](https://yasmenmad.github.io/hired/) &middot; [Scientific Preprint](https://doi.org/10.5281/zenodo.23963775) &middot; [GitHub Source](https://github.com/yasmenmad/hired)
-
-- **[Polyglot - Intelligent Multi-Modal Adaptive Language Learning Platform](https://github.com/yasmenmad/polyglot-language-coach)**  
-  *Educational Architecture: SuperMemo-2 Spaced Repetition (SM-2), Web Speech API, WebSocket State Machine*  
-  End-to-end full-stack educational architecture integrating algorithmic memory decay scheduling, phonetics evaluation, and real-time multiplayer vocabulary tournaments.  
-  [Verified Live Deployment](https://yasmenmad.github.io/polyglot-language-coach/) &middot; [Scientific Preprint](https://doi.org/10.5281/zenodo.23963920) &middot; [GitHub Source](https://github.com/yasmenmad/polyglot-language-coach)
-
-- **[Filmo - Deep Learning Cinema Intelligence &amp; Neural Retrieval Engine](https://github.com/yasmenmad/chatbot)**  
-  *Natural Language Processing: SentenceTransformer ('all-MiniLM-L6-v2'), PyTorch, Affective Valence Inversion*  
-  Neural semantic vector retrieval system over curated IMDb film corpora. Embeds 384-dimensional dense semantic vectors and applies emotional valence inversion to proactively recommend heartwarming cinema when sadness or low mood is detected.  
-  [Verified Live Deployment](https://yasmenmad.github.io/chatbot/) &middot; [GitHub Source](https://github.com/yasmenmad/chatbot)
-
-- **[Echoes of History - Interactive Multi-Era Pedagogical Simulation Engine](https://github.com/yasmenmad/echoes-of-history)**  
-  *Interactive Simulation: React 19, Vite, Groq LLaMA 3.3 70B, Web Speech API, 9 Historical Personas*  
-  Simulates real-time vocal dialogue with Cleopatra, Nikola Tesla, Albert Einstein, Leonardo da Vinci, and Napoleon Bonaparte with contextual memory and eye-tracking geometry.  
-  [Verified Live Deployment](https://yasmenmad.github.io/echoes-of-history/) &middot; [GitHub Source](https://github.com/yasmenmad/echoes-of-history)
-
-- **[HanyuStar (&#27721;&#35821;&#26143;) - Interactive Mandarin Learning Client](https://github.com/yasmenmad/HanyuStar)**  
-  *Mandarin Pedagogy &amp; Phonetics PWA: Hanzi Writer, HSK 1-4 Vocabulary, Pinyin Drills*  
-  Interactive stroke order visualizer, character radical decomposition, and tone trainer for Chinese language learners.  
-  [Verified Live Deployment](https://yasmenmad.github.io/HanyuStar/) &middot; [GitHub Source](https://github.com/yasmenmad/HanyuStar)
-
-- **[Real Stories - Curated Historical Cinema Explorer](https://github.com/yasmenmad/REAL-STORIES)**  
-  *Historical Cinema Archival &amp; Discovery Portal: TMDB REST API, Thematic Filtering, Chronological Eras*  
-  Curated historical cinema discovery client indexing 85 true-story masterpieces across world history with full historical dossiers.  
-  [Verified Live Deployment](https://yasmenmad.github.io/REAL-STORIES/) &middot; [GitHub Source](https://github.com/yasmenmad/REAL-STORIES)
-
-- **[EnhancedBadgeApp - Port Logistics Intelligence &amp; Access Control](https://github.com/yasmenmad/anp-projects)**  
-  *Industrial Data Analytics Tool for the National Ports Agency (ANP, Kingdom of Morocco)*  
-  High-throughput batch Excel ingestion, normalized Levenshtein distance string matching, and statistical auditing.  
-  [GitHub Source](https://github.com/yasmenmad/anp-projects)
-
----
 
 ### My GitHub contributions summary
 
