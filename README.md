@@ -22,31 +22,6 @@ I am a Software and AI Engineer passionate about architecting scalable distribut
 - **Big Data Engineering:** Real-time stream processing, Lambda architectures, multi-terabyte data warehousing, and unsupervised spatial clustering (K-Means, DBSCAN).
 - **AI for Social Impact &amp; Geospatial Systems:** Mapping digital exclusion across 450,000 Moroccan 1 km&sup2; grid cells, and architecting offline-first educational systems.
 
----
-
-## Single-Author Research &amp; Preprints (Zenodo)
-
-1. **Silence as Data: A Lambda-Architecture Pipeline for Locating Digitally Invisible Communities on a 1 km&sup2; Grid of Morocco**  
-   *Sole Author &middot; Preprint, Zenodo, 2026*  
-   DOI: [10.5281/zenodo.23963589](https://doi.org/10.5281/zenodo.23963589)  
-   *Kafka &middot; Apache Spark &middot; Databricks &middot; PostgreSQL &middot; Redis &middot; MLflow &middot; K-Means / DBSCAN*
-
-2. **Hired: A Distributed Clean-Architecture Platform for Automated Career Intelligence and Conversational Interview Coaching**  
-   *Sole Author &middot; Preprint, Zenodo, 2026*  
-   DOI: [10.5281/zenodo.23963775](https://doi.org/10.5281/zenodo.23963775)  
-   *Domain-Driven Design (DDD v13) &middot; React 19 &middot; FastAPI &middot; Three.js 3D Avatar &middot; Groq LLaMA 3.3*
-
-3. **Polyglot: A Clean-Architecture, LLM-Powered Platform for Interactive Language Learning**  
-   *Sole Author &middot; Preprint, Zenodo, 2026*  
-   DOI: [10.5281/zenodo.23963920](https://doi.org/10.5281/zenodo.23963920)  
-   *SuperMemo-2 (SM-2) Algorithmic Decay &middot; Web Speech API &middot; WebSocket State Machines &middot; PWA*
-
-4. **Building a Business Intelligence Pipeline for GitHub Issue Analytics: Talend ETL, a MySQL Star Schema and Power BI**  
-   *Sole Author &middot; Preprint, Zenodo, 2026*  
-   DOI: [10.5281/zenodo.23964013](https://doi.org/10.5281/zenodo.23964013)  
-   *Talend Open Studio &middot; Dimensional Modeling &middot; OLAP Star Schema &middot; DAX &middot; Power BI*
-
----
 
 ## When I code, I rely on
 
