@@ -5,9 +5,6 @@
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yasmenmad/yasmenmad/main/assets/profile.png" alt="Yasmine Daoudi" width="165" height="165" style="border-radius: 50%; border: 3px solid #38bdf8; box-shadow: 0 0 28px rgba(56, 189, 248, 0.45); object-fit: cover;" />
-
-  <br/><br/>
 
   # Yasmine Daoudi
 
@@ -145,23 +142,43 @@ Computer Engineering and Data Science graduate (**DUT, Mention Bien, Year-2 Aver
 
 ### Verified Certifications & Academic Credentials
 
-All credentials and certifications below are official and documented in my verified curriculum vitae:
+All credentials and certifications below are official and documented in my verified curriculum vitae with authenticated digital documents:
 
 #### Artificial Intelligence, Machine Learning & Cloud Architecture
-- [![Machine Learning for All](https://img.shields.io/badge/Machine_Learning_for_All-Univ._of_London-003366?style=flat-square&logo=coursera&logoColor=white)](https://www.coursera.org/learn/uol-machine-learning-for-all) &middot; **[University of London &middot; Coursera](https://www.coursera.org/learn/uol-machine-learning-for-all)**
+- [![Machine Learning for All](https://img.shields.io/badge/Machine_Learning_for_All-Univ._of_London-003366?style=flat-square&logo=coursera&logoColor=white)](./certificates/cert_machine_learning_for_all_london.png) &middot; **[University of London &middot; Coursera](./certificates/cert_machine_learning_for_all_london.png)** &middot; [View Authenticated Certificate](./certificates/cert_machine_learning_for_all_london.png)
 - [![Introduction to Large Language Models](https://img.shields.io/badge/Introduction_to_LLMs-Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/course_templates/539) &middot; **[Google Cloud Skills Boost](https://www.cloudskillsboost.google/course_templates/539)**
 - [![Introduction to Generative AI Studio](https://img.shields.io/badge/Generative_AI_Studio-Google_Cloud-34A853?style=flat-square&logo=google&logoColor=white)](https://www.cloudskillsboost.google/course_templates/556) &middot; **[Google Cloud](https://www.cloudskillsboost.google/course_templates/556)**
-- [![Data Warehousing](https://img.shields.io/badge/Data_Warehousing-Schema%2C_ETL_%26_Performance-0062FF?style=flat-square&logo=ibm&logoColor=white)](https://www.coursera.org/learn/data-warehouse) &middot; **[Data Warehousing: Schema, ETL, and Optimal Performance](https://www.coursera.org/learn/data-warehouse)**
-- [![Data Science & Analytics](https://img.shields.io/badge/Data_Science_%26_Analytics-HP_LIFE-0096D6?style=flat-square&logo=hp&logoColor=white)](https://www.life-global.org/courses/data-science-and-analytics) &middot; **[HP LIFE Global](https://www.life-global.org/courses/data-science-and-analytics)**
-- [![Power BI for Beginners](https://img.shields.io/badge/Power_BI_for_Beginners-Microsoft-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://learn.microsoft.com/en-us/training/powerplatform/power-bi) &middot; **[Microsoft Learn](https://learn.microsoft.com/en-us/training/powerplatform/power-bi)**
+- [![Data Warehousing](https://img.shields.io/badge/Data_Warehousing-Schema%2C_ETL_%26_Performance-0062FF?style=flat-square&logo=ibm&logoColor=white)](./certificates/cert_data_warehousing_etl.png) &middot; **[Data Warehousing: Schema, ETL, and Optimal Performance &middot; Coursera](./certificates/cert_data_warehousing_etl.png)** &middot; [View Authenticated Certificate](./certificates/cert_data_warehousing_etl.png)
+- [![Data Science & Analytics](https://img.shields.io/badge/Data_Science_%26_Analytics-HP_LIFE-0096D6?style=flat-square&logo=hp&logoColor=white)](./certificates/data_science_certificate.png) &middot; **[Data Science & Analytics &middot; HP LIFE Global](./certificates/data_science_certificate.png)** &middot; [View Authenticated Certificate](./certificates/data_science_certificate.png)
+- [![Power BI for Beginners](https://img.shields.io/badge/Power_BI_for_Beginners-Microsoft-F2C811?style=flat-square&logo=powerbi&logoColor=black)](./certificates/cert_power_bi_microsoft.png) &middot; **[Microsoft &middot; Certificate Code: 9380354](./certificates/cert_power_bi_microsoft.png)** &middot; [View Authenticated Certificate](./certificates/cert_power_bi_microsoft.png)
+- [![OOP with PHP](https://img.shields.io/badge/OOP_with_PHP-Coursera-21759B?style=flat-square&logo=coursera&logoColor=white)](./certificates/cert_oop_php_coursera.png) &middot; **[Learn Object-Oriented Programming with PHP &middot; Coursera](./certificates/cert_oop_php_coursera.png)** &middot; [View Authenticated Certificate](./certificates/cert_oop_php_coursera.png)
 
-#### Professional Leadership, Agile & Project Engineering (HP LIFE & Coursera)
-- [![Effective Leadership](https://img.shields.io/badge/Effective_Leadership-HP_LIFE-0096D6?style=flat-square&logo=hp&logoColor=white)](https://www.life-global.org/) &middot; **[HP LIFE Global](https://www.life-global.org/)**
-- [![Agile Project Management](https://img.shields.io/badge/Agile_Project_Management-HP_LIFE-0096D6?style=flat-square&logo=hp&logoColor=white)](https://www.life-global.org/) &middot; **[HP LIFE Global](https://www.life-global.org/)**
-- [![Effective Presentations](https://img.shields.io/badge/Effective_Presentations-HP_LIFE-0096D6?style=flat-square&logo=hp&logoColor=white)](https://www.life-global.org/) &middot; **[HP LIFE Global](https://www.life-global.org/)**
-- [![Success Mindset](https://img.shields.io/badge/Success_Mindset-HP_LIFE-0096D6?style=flat-square&logo=hp&logoColor=white)](https://www.life-global.org/) &middot; **[HP LIFE Global](https://www.life-global.org/)**
-- [![Unique Value Proposition](https://img.shields.io/badge/Unique_Value_Proposition-HP_LIFE-0096D6?style=flat-square&logo=hp&logoColor=white)](https://www.life-global.org/) &middot; **[HP LIFE Global](https://www.life-global.org/)**
-- [![WordPress Development](https://img.shields.io/badge/WordPress_Creation-Coursera-21759B?style=flat-square&logo=wordpress&logoColor=white)](https://www.coursera.org/) &middot; **[Coursera](https://www.coursera.org/)**
+#### Professional Leadership, Agile & Project Engineering (HP LIFE & Academic)
+- [![Presenting Data](https://img.shields.io/badge/Presenting_Data-HP_LIFE-0096D6?style=flat-square&logo=hp&logoColor=white)](./certificates/cert_hp_life_presenting_data.png) &middot; **[HP LIFE Global &middot; Presenting Data](./certificates/cert_hp_life_presenting_data.png)** &middot; [View Authenticated Certificate](./certificates/cert_hp_life_presenting_data.png)
+- [![Scientific Seminar Presenter](https://img.shields.io/badge/Scientific_Seminar-Presenter_Certificate-059669?style=flat-square&logo=academia&logoColor=white)](./certificates/certificate_seminar.png) &middot; **[Scientific Seminar Presenter Certificate](./certificates/certificate_seminar.png)** &middot; [View Authenticated Certificate](./certificates/certificate_seminar.png)
+- [![Hackathon Achievement](https://img.shields.io/badge/Hackathon-Achievement_Award-7C3AED?style=flat-square&logo=trophy&logoColor=white)](./certificates/cert_hackathon_achievement.png) &middot; **[Hackathon Innovation &amp; Development Award](./certificates/cert_hackathon_achievement.png)** &middot; [View Authenticated Certificate](./certificates/cert_hackathon_achievement.png)
+- [![Technical Internship](https://img.shields.io/badge/Technical_Internship-Certified-2563EB?style=flat-square&logo=checkmarx&logoColor=white)](./certificates/cert_technical_internship.png) &middot; **[Technical Engineering Internship Certificate](./certificates/cert_technical_internship.png)** &middot; [View Authenticated Certificate](./certificates/cert_technical_internship.png)
+
+<br/>
+
+<details>
+<summary><strong>Click to expand Official Verified Certificate Proof Gallery</strong></summary>
+
+<br/>
+
+| Machine Learning for All (Univ. of London) | Data Warehousing & ETL (Coursera) |
+| :---: | :---: |
+| <a href="./certificates/cert_machine_learning_for_all_london.png"><img src="./certificates/cert_machine_learning_for_all_london.png" width="360" alt="Machine Learning for All Certificate" /></a> | <a href="./certificates/cert_data_warehousing_etl.png"><img src="./certificates/cert_data_warehousing_etl.png" width="360" alt="Data Warehousing Certificate" /></a> |
+
+| Power BI for Beginners (Microsoft) | Data Science & Analytics (HP LIFE) |
+| :---: | :---: |
+| <a href="./certificates/cert_power_bi_microsoft.png"><img src="./certificates/cert_power_bi_microsoft.png" width="360" alt="Power BI Certificate" /></a> | <a href="./certificates/data_science_certificate.png"><img src="./certificates/data_science_certificate.png" width="360" alt="Data Science Certificate" /></a> |
+
+| DUT Degree of Technology (EST Kénitra) | English Medium of Instruction Accreditation |
+| :---: | :---: |
+| <a href="./certificates/attestation_reusite_dut.png"><img src="./certificates/attestation_reusite_dut.png" width="360" alt="DUT Attestation" /></a> | <a href="./certificates/certificate_of_english_proficiency_-_est_kenitra.png"><img src="./certificates/certificate_of_english_proficiency_-_est_kenitra.png" width="360" alt="English Proficiency Certificate" /></a> |
+
+</details>
 
 ---
 
